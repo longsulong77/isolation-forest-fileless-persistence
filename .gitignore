@@ -4,5 +4,7 @@ __pycache__/
 data/raw/
 data/csv/*.csv
 ml/models/*.joblib
-share/installers/
-*.zip
+share/
+atomic-red-team.gemspec
+query
+test.py
